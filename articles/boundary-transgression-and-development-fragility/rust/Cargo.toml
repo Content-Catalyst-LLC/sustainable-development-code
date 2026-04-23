@@ -1,0 +1,6 @@
+[package]
+name = "boundary_fragility_validator"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]

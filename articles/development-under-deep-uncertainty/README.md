@@ -9,6 +9,8 @@ This module contains the code workflows referenced in the article on development
 - SQL: scenario registry and longitudinal robustness dashboard logic
 - Rust: validation utility for scenario input records
 - Go: lightweight pathway evaluation service for multi-future planning
+- Embedded C: low-level infrastructure sensing and fail-safe threshold logic
+- C++: edge-side adaptive monitoring and local resilience decision support
 
 ## Folder layout
 
@@ -17,6 +19,8 @@ This module contains the code workflows referenced in the article on development
 - `sql/`: schema and robustness query logic
 - `rust/`: typed validation tooling
 - `go/`: lightweight scenario evaluation service
+- `c/`: embedded infrastructure sensing and fail-safe logic
+- `cpp/`: edge monitoring and local adaptive control logic
 - `data/raw/`: source datasets
 - `data/processed/`: generated outputs
 - `outputs/`: notes and exported artifacts

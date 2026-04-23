@@ -4,8 +4,8 @@ This module contains the code workflows referenced in the article on scenario pl
 
 ## Included workflows
 
-- Python: scenario matrix generation, robustness scoring, regret analysis, and pathway sensitivity testing
-- R: scenario panel analysis, regional robustness summaries, and adaptive-capacity trend analysis
+- Python: scenario matrix generation and robustness scoring
+- R: scenario panel and adaptive-capacity analysis
 - SQL: scenario registry, pathway decision logging, and robustness dashboard views
 - Rust: validation utility for scenario input records
 - Go: lightweight pathway evaluation service

@@ -1,0 +1,10 @@
+.DS_Store
+.env
+.venv/
+__pycache__/
+*.pyc
+.Rhistory
+.RData
+target/
+*.log
+articles/**/data/processed/*.csv

@@ -8,17 +8,17 @@ import (
 )
 
 type InclusionRecord struct {
-	TerritoryName               string
-	CountryOrRegion             string
-	TerritoryType               string
-	EducationAccess             float64
-	HealthAccess                float64
-	IncomeSecurity              float64
-	PublicGoodsAccess           float64
-	OpportunityBlockage         float64
-	RiskExposure                float64
-	InstitutionalCapture        float64
-	GovernanceCapacity          float64
+	TerritoryName                string
+	CountryOrRegion              string
+	TerritoryType                string
+	EducationAccess              float64
+	HealthAccess                 float64
+	IncomeSecurity               float64
+	PublicGoodsAccess            float64
+	OpportunityBlockage          float64
+	RiskExposure                 float64
+	InstitutionalCapture         float64
+	GovernanceCapacity           float64
 	InclusiveTransitionReadiness float64
 }
 

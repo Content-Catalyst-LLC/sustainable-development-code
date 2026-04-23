@@ -75,7 +75,7 @@ fn main() -> Result<(), Box<dyn Error>> {
         } else {
             println!(
                 "VALID: territory_name={} territory_type={}",
-                record.territory_name, record.territoryType
+                record.territory_name, record.territory_type
             );
         }
     }

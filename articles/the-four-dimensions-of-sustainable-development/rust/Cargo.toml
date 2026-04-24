@@ -1,0 +1,6 @@
+[package]
+name = "four_dimensions_validator"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]

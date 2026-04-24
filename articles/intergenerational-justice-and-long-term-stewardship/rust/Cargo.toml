@@ -1,0 +1,6 @@
+[package]
+name = "intergenerational_justice_validator"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]

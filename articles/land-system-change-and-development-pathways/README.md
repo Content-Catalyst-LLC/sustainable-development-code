@@ -1,24 +1,22 @@
 # Land-System Change and Development Pathways
 
-Advanced code workflows for the article on land-system change and development pathways.
+This repository folder supports the article **"Land-System Change and Development Pathways."**
 
-## Included workflows
+It provides reproducible code scaffolding for analyzing land-system change as a development pathway problem rather than a simple land-cover problem. The workflows model conversion pressure, land degradation, fragmentation, biodiversity-function loss, justice exposure, development dependence, governance capacity, and restoration readiness.
 
-- Python:
-  - land-system change and development pathway risk scoring
-  - governance, restoration, and territorial exposure diagnostics
-- R:
-  - cross-region and cross-territory land-system summaries
-  - degradation exposure and governance gap analysis
-- SQL:
-  - land-pathway risk registry
-  - conversion, biodiversity, and governance logs
-  - territorial stress dashboards
-- Go:
-  - lightweight land-pathway risk scoring service
-- Rust:
-  - validation utility for land-system and pathway records
-- Embedded C:
-  - optional low-resource land monitoring signal node
-- C++:
-  - optional local land-pathway risk scorer
+## Contents
+
+- `python/land_system_pathway_risk.py` — land-system development pathway risk scoring
+- `r/territorial_exposure_analysis.R` — territorial exposure and governance gap analysis
+- `sql/land_system_schema.sql` — relational schema and diagnostic scoring queries
+- `rust/land_pathway_score.rs` — lightweight infrastructure-oriented scoring utility
+- `data/land_system_change_panel.csv` — example land-system indicator dataset
+- `docs/` — setup, data model, and methodology notes
+
+## Core Concept
+
+Land-system change should be treated as a pathway question for sustainable development. The goal is not only to ask where land is converted, but where land-system transformation becomes developmentally consequential by weakening ecological function, social resilience, governance capacity, and future habitability.
+
+## License
+
+MIT License.

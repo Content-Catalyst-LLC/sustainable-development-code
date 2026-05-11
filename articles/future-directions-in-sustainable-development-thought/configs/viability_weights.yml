@@ -1,0 +1,19 @@
+viability_model:
+  name: future-development-viability-score
+  version: 0.1.0
+  components:
+    income_index: 0.16
+    ecological_integrity_index: 0.22
+    resilience_index: 0.18
+    governance_capacity_index: 0.16
+    technology_capability_index: 0.13
+    justice_equity_index: 0.15
+  interpretation:
+    high_viability: ">= 0.75"
+    medium_viability: ">= 0.55 and < 0.75"
+    high_concern: "< 0.55"
+  cautions:
+    - "Composite indicators should not hide component-level failure."
+    - "Weights are normative and should be reviewed with stakeholders."
+    - "Ecological and institutional thresholds may create nonlinear losses."
+    - "Scenario scoring is for structured comparison, not prediction."

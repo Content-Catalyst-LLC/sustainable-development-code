@@ -1,0 +1,7 @@
+# Core Python workflow uses only the standard library.
+# Optional packages for notebooks and extended analysis:
+pandas>=2.2
+numpy>=2.0
+matplotlib>=3.9
+pyyaml>=6.0
+jupyter>=1.0

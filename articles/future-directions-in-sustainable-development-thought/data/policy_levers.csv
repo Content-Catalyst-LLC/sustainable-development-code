@@ -1,0 +1,7 @@
+lever_id,lever_name,target_dimension,expected_effect,risk_reduction_logic,implementation_horizon
+l001,adaptive_public_capacity,governance_capacity_index,0.08,Reduces institutional stress and improves cross-sector coordination,medium
+l002,ecosystem_restoration,ecological_integrity_index,0.10,Reduces planetary pressure and strengthens resilience,long
+l003,social_protection_floor,justice_equity_index,0.09,Reduces vulnerability and transition exposure,short
+l004,digital_public_infrastructure,technology_capability_index,0.07,Improves inclusive access while reducing platform dependence,medium
+l005,anticipatory_governance,resilience_index,0.08,Improves preparedness under deep uncertainty,medium
+l006,capability_building_sti,technology_capability_index,0.10,Strengthens endogenous science and innovation capacity,long

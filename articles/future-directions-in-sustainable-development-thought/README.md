@@ -1,20 +1,21 @@
 # Future Directions in Sustainable Development Thought
 
-This module contains the code workflows referenced in the article on future directions in sustainable development thought.
+This companion repository models future-oriented sustainable development analysis as a scenario, viability, resilience, and governance problem. It includes synthetic scenario data, longitudinal indicators, Python/R workflows, SQL dashboard queries, Julia threshold-risk examples, documentation, configuration, and a smoke-test runner.
 
-## Included workflows
+## Run locally
 
-- Python: scenario and viability stress-testing for future development pathways
-- R: longitudinal analysis of resilience, governance, and equity indicators
-- SQL: dashboard-oriented schema for multi-year development viability metrics
-- Rust: structured validation for scenario ingest and telemetry-style indicator streams
+```bash
+bash bash/run_all.sh
+```
 
-## Folder layout
+## Core analytical frame
 
-- `python/`: scenario modeling and scoring workflows
-- `r/`: longitudinal and comparative statistical workflows
-- `sql/`: schema and dashboard query logic
-- `rust/`: typed validation utility
-- `data/raw/`: source datasets
-- `data/processed/`: generated outputs
-- `outputs/`: notes and exported artifacts
+```text
+income + ecological integrity + resilience + governance capacity + technology capability + justice/equity
+        → viability score
+        → scenario stress test
+        → threshold risk
+        → institutional and transition-readiness review
+```
+
+The workflows are illustrative and use synthetic data. They are designed to show how sustainable development thinking can move from static indicator monitoring toward stress-testing, pathway comparison, and multidimensional viability analysis.
